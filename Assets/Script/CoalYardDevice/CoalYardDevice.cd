@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CoalYardDeviceFactory">
+    <Position X="6" Y="2" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAEAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\CoalYardDevice\CoalYardDeviceFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoalYardDevice" Collapsed="true">
+    <Position X="3.75" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAEAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\CoalYardDevice\CoalYardDevice.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="ISwitchableDevice">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\CoalYardDevice\ISwitchableDevice.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
